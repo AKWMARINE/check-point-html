@@ -1,0 +1,78 @@
+header nav ul {
+    display: flex;
+    align-items: end;
+    gap: 20px;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+header nav ul li a{
+    color: #ce0e78;
+    text-decoration: none;
+    
+}
+#home h2{
+    color: #ce0e78;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#home h2 p{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#about h2{
+    color: #ce0e78;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#about h2 p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#work h2{
+    color: #ce0e78;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#work h2 p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#resume h2{
+    color: #ce0e78;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#resume h2 p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#resume h2 p img{
+    border: 5px solid #e42121;
+}
+
+
+#contact h2{
+    color: #ce0e78;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#contact h2 p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: rgb(116, 185, 218);
+}
+
+footer{
+    background-color: rgb(83, 81, 81);
+}
+
+
+
+
+
